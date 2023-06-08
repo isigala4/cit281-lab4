@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Lab 4
+description: In this lab we learned about fatsify and how to use it. We also gain experience using Node Package Manager (npm). We created different routes with query parameters. 
